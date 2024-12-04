@@ -1,27 +1,61 @@
-# Wishlist
+# Wishlist App 🎁
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
+This is an **in-progress** Angular application that I started as part of a tutorial when I began learning Angular in May. The app is a simple, user-friendly platform designed to manage and organize wishlists.
 
-## Development server
+## About the Project
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+The **Wishlist App** was my introduction to Angular development. It helped me learn the fundamentals of Angular, such as:
+- Component-based architecture
+- Data binding
+- Dependency injection
+- Routing
 
-## Code scaffolding
+While it began as a tutorial project, I plan to enhance it with additional features and a polished design as I continue to develop my Angular skills.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+---
 
-## Build
+## Features (Planned and Current)
+### Current Features:
+- Add items to a wishlist
+- Remove items from the wishlist
+- Display a list of added items
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Planned Features:
+- Mark items as purchased or unpurchased
+- Categorize wishlist items
+- Store data persistently using a backend or local storage
+- User authentication and personalized wishlists
 
-## Running unit tests
+---
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## How to Run the App
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/gbaksa22/wishlist.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd wishlist-app
+   ```
+3. Install the dependencies:
+   ```bash
+   npm install
+   ```
+4. Start the development server:
+   ```bash
+   ng serve
+   ```
+5. Open your browser and visit `http://localhost:4200/`.
 
-## Running end-to-end tests
+---
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Roadmap
+1. Complete the basic tutorial functionality.
+2. Refactor the app with cleaner code and modular components.
+3. Implement new features as listed above.
+4. Deploy the app for live usage.
 
-## Further help
+---
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+## Lessons Learned
+Through this project, I’ve gained experience with Angular fundamentals and practical development workflows. It marked the start of my journey into front-end development.
