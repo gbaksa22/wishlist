@@ -21,7 +21,7 @@ While it began as a tutorial project, I plan to enhance it with additional featu
    ```
 2. Navigate to the project directory:
    ```bash
-   cd wishlist-app
+   cd wishlist
    ```
 3. Install the dependencies:
    ```bash
