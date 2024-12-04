@@ -14,20 +14,6 @@ While it began as a tutorial project, I plan to enhance it with additional featu
 
 ---
 
-## Features (Planned and Current)
-### Current Features:
-- Add items to a wishlist
-- Remove items from the wishlist
-- Display a list of added items
-
-### Planned Features:
-- Mark items as purchased or unpurchased
-- Categorize wishlist items
-- Store data persistently using a backend or local storage
-- User authentication and personalized wishlists
-
----
-
 ## How to Run the App
 1. Clone the repository:
    ```bash
